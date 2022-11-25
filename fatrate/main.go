@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gostudy/fatrate/bmi"
-	genderF "gostudy/fatrate/bmi/gender"
+	"github.com/tbllmj/gostudy/fatrate/bmi"
+	genderF "github.com/tbllmj/gostudy/fatrate/bmi/gender"
 )
 
 func main() {

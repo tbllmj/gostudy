@@ -1,4 +1,4 @@
-module gostudy
+module github.com/tbllmj/gostudy
 
 go 1.19
 
